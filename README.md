@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Doris Guerrero Vargas</h1>
 <h3 align="center">Front-end developer passionate about technology and design.</h3>
-![image](https://github.com/Dorisgv/Dorisgv/assets/125492466/ee4a9e3b-74ca-474c-b0c4-90c69833f640)
+![image](https://github.com/Dorisgv/Dorisgv/assets/125492466/b34cccb2-9c8e-4916-ab38-a123f0dd0362)
+
 
 
 - 🔭 I’m currently working on [WorkshoptReactDOM](https://github.com/Dorisgv/WorkshoptReactDOM.git)
